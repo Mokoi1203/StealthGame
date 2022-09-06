@@ -1,2 +1,7 @@
 # StealthGame
-3D Stealth Action Game Project
+
+
+아이디어 노트
+-> 장르 : 3인칭 시점의 잠입 액션
+-> 
+-> 
